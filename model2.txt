@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is model 2
+=======
+this is model 2
+>>>>>>> d75489ce26889f948810e9f565a09c4ccd26cb81
